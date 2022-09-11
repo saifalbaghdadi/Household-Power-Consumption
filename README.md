@@ -1,5 +1,5 @@
 # Household-Power-Consumption
-# Household-Power-Consumption
+
 ## Introduction
 With the advent of new gadgets and a push towards greater electrification projects globally, power consumption is rising globally. 
 
