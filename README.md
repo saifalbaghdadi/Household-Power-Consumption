@@ -1,5 +1,5 @@
 # Household-Power-Consumption
-### Introduction
+## Introduction
 With the advent of new gadgets and a push towards greater electrification projects globally, power consumption is rising globally. 
 
 Thus, we can also expect that household or residential power consumption is so on the rise. With greater access to global power consumption data, forecasting power consumption is an emerging challenge.
