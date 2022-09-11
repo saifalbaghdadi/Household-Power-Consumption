@@ -10,7 +10,7 @@ An accurate forecast can help both the consumer as well as the supplier side. Fo
 
 <strong> Track the power consumption of individual households in almost real time. </strong>
 
-![Insid1](https://www.euractiv.com/wp-content/uploads/sites/2/2022/06/shutterstock_1912474066-800x450.jpg)
+![Insid1](https://assets.amigoenergy.com/wp-content/uploads/2021/12/the-power-grid-and-electrical-grid.jpg)
 
 
 ## Team
