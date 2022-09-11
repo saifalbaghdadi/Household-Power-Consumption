@@ -10,7 +10,7 @@ An accurate forecast can help both the consumer as well as the supplier side. Fo
 
 <strong> Track the power consumption of individual households in almost real time. </strong>
 
-![Insid1](https://utilityanalytics.com/wp-content/uploads/2022/03/dreamstime_m_146637683-1536x1028.jpg)
+![Insid1](https://www.euractiv.com/wp-content/uploads/sites/2/2022/06/shutterstock_1912474066-800x450.jpg)
 
 
 ## Team
