@@ -11,7 +11,7 @@ An accurate forecast can help both the consumer as well as the supplier side. Fo
 
 1- [Saif Malkshahi](https://github.com/saifalbaghdadi)
 
-2- (https://github.com/turkyman75)
+2- [Ashraf Turky](https://github.com/turkyman75)
 
 3- [Syrine Bettaieb](https://github.com/SyrineBettaieb)
 
