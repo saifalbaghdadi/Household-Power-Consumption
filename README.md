@@ -1,25 +1,25 @@
-# Household-Power-Consumption
-## Introduction
-With the advent of new gadgets and a push towards greater electrification projects globally, power consumption is rising globally. 
+# Clustring of Individual household electric power consumption
 
-Thus, we can also expect that household or residential power consumption is so on the rise. With greater access to global power consumption data, forecasting power consumption is an emerging challenge.
+This is the code for "Clustring Household Power Consumption" using K-Means. The data set is available at:
 
-An accurate forecast can help both the consumer as well as the supplier side. For the consumer, a power forecast helps in financial planning as making more green choices overall. For the supplier, an accurate forecast will definitely help in supply regulation. Thus, such models can help to optimize the overall supply chain of the household power industry.
+https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
-## Project Goal:
+## Overview
 
-<strong> Track the power consumption of individual households in almost real time. </strong>
+In this code, we use K-Means clustering method to find patterns of electric energy onsumption of an individual household.
 
-![Insid1](https://assets.amigoenergy.com/wp-content/uploads/2021/12/the-power-grid-and-electrical-grid.jpg)
+## Data Set Information
 
+According to UC Irvine Machine Learning Repository:
 
-## Team
+"This archive contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months). 
 
-1- [Saif Malkshahi](https://github.com/saifalbaghdadi)
+Notes:
+1.(global_active_power*1000/60 - sub_metering_1 - sub_metering_2 - sub_metering_3) represents the active energy consumed every minute (in watt hour) in the household by electrical equipment not measured in sub-meterings 1, 2 and 3. 
+2.The dataset contains some missing values in the measurements (nearly 1,25% of the rows). All calendar timestamps are present in the dataset but for some timestamps, the measurement values are missing: a missing value is represented by the absence of value between two consecutive semi-colon attribute separators. For instance, the dataset shows missing values on April 28, 2007."
 
-2- [Ashraf Turky](https://github.com/turkyman75)
+## Some references:
 
-3- [Syrine Bettaieb](https://github.com/SyrineBettaieb)
+https://machinelearningmastery.com/how-to-load-and-explore-household-electricity-usage-data/
 
-4- [Rafik Mohammed](https://github.com/Rafik20012)
-
+https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-/blob/master/data_e_power.ipynb
