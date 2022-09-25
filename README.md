@@ -13,6 +13,24 @@ An accurate forecast can help both the consumer as well as the supplier side. Fo
 ![Insid1](https://assets.amigoenergy.com/wp-content/uploads/2021/12/the-power-grid-and-electrical-grid.jpg)
 
 
+## Used Language and Libraries:
+* <strong> To install one of the Libraries , write in the terminal : </strong>
+  <h4 align="center"> pip install " Library name " </h4>
+ 
+  
+```
+└── Python
+      ├── Numpy   
+      ├── Pandas
+      ├── Matplotlib
+      ├── Seaborn
+      ├── Sklearn
+      ├── tensorflow
+      ├── datetime
+      └── missingno   
+       
+```
+
 ## Team
 
 1- [Saif Malkshahi](https://github.com/saifalbaghdadi)
